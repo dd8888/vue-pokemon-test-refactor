@@ -1,5 +1,7 @@
 # pokevue
 
+Refactored this [repo](https://github.com/dd8888/vue-pokemon-test) from using VUE as a library to using VUE as a framework.
+
 ## Project setup
 ```
 npm install
